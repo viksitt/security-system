@@ -9,7 +9,6 @@ This C++ program implements a basic security system with features like user regi
       
 # CODE STRUCTURE
  The program consists of a single C++ source file (security_system.cpp) with the following key components:
-
-    User Interface: Displays a menu with options for registration, login, password change, and program termination.
-    Switch Case: Uses a switch statement to handle user choices and execute corresponding actions.
-    File Handling: Manages user data using file I/O operations for registration, login, and password change.
+ 1. User Interface: Displays a menu with options for registration, login, password change, and program termination.
+ 2. Switch Case: Uses a switch statement to handle user choices and execute corresponding actions.
+ 3. File Handling: Manages user data using file I/O operations for registration, login, and password change.
